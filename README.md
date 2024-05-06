@@ -1,2 +1,2 @@
 # PORTFOLIO
-Portfolio - Analista de datos (Data Analyst)
+Portfolio - Analista de datos | BI
